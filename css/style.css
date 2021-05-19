@@ -695,7 +695,8 @@ p {
 
     .slick-dots {
         padding: 0 0 30px;
-        justify-content: flex-start;
+        width: 100%;
+        justify-content: center;
     }
 
     .footer_title { 
